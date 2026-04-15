@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>البيوع المحرمة</title>
+<style>
+body {
+  font-family: "Amiri", serif;
+  background: #0f172a;
+  color: #e2e8f0;
+  line-height: 1.8;
+  padding: 20px;
+  direction: rtl;
+}
+.container {
+  max-width: 900px;
+  margin: auto;
+  background: #1e293b;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+h1, h2 {
+  color: #38bdf8;
+}
+.section {
+  margin-bottom: 20px;
+}
+ul {
+  padding-right: 20px;
+}
+.card {
+  background: #334155;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>البيوع المحرمة</h1>
+
+  <div class="section">
+    <h2>التعريف</h2>
+    <p>
+      <b>لغةً:</b> البيع هو مبادلة شيء بشيء.
+    </p>
+    <p>
+      <b>اصطلاحاً:</b> هو عقد معاوضة يفيد تمليك عين أو منفعة على وجه مخصوص، فإذا دخل فيه ما نهى عنه الشرع سمي من البيوع المحرمة.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>الدليل</h2>
+    <div class="card">
+      <p>
+        قال الله تعالى: "وأحل الله البيع وحرم الربا" (البقرة: 275)
+      </p>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>أسباب التحريم</h2>
+    <ul>
+      <li>الظلم وأكل أموال الناس بالباطل.</li>
+      <li>وجود الغرر والجهالة.</li>
+      <li>الخداع والتدليس.</li>
+      <li>الضرر على أحد الطرفين.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>أنواع البيوع المحرمة</h2>
+    <ul>
+      <li><b>الربا</b> : الزيادة في المعاملات المالية.</li>
+      <li><b>الغرر</b> : الجهالة وعدم وضوح المبيع.</li>
+      <li><b>التدليس</b> : إخفاء العيب وخداع المشتري.</li>
+      <li><b>النجش</b> : رفع السعر بدون نية الشراء.</li>
+      <li><b>بيع المحرمات</b> : كبيع الخمر والميتة ونحوها.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>الحكم</h2>
+    <p>
+      حكم البيوع المحرمة هو التحريم، فلا يجوز فعلها، ومن فعلها أثم، ويجب عليه التوبة ورد الحقوق إلى أهلها.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>الحكمة من التحريم</h2>
+    <ul>
+      <li>تحقيق العدل بين الناس.</li>
+      <li>منع النزاع والخصومة.</li>
+      <li>حفظ الأموال من الفساد.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>الربا (شرح مختصر)</h2>
+    <p>
+      الربا هو الزيادة المشروطة في المعاملات المالية، وهو من أعظم المحرمات في الإسلام لما فيه من ظلم وأكل أموال الناس بالباطل.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>الخلاصة</h2>
+    <p>
+      حرم الإسلام بعض أنواع البيع حمايةً للإنسان من الظلم والضرر، وأمر بالمعاملات القائمة على الصدق والوضوح.
+    </p>
+  </div>
+  <div class="section">
+    <h2>أعضاء المجموعة</h2>
+    <ul>
+      <li>Raffasya Zaidan Al-Farizqi</li>
+      <li>Darrel Nazhera Nameene</li>
+      <li>Muhammad Marsha Ahlam</li>
+    </ul>
+  </div>
+
+  <div class="section" style="text-align:center; font-size:14px; opacity:0.7;">
+    Copyright, 2026 Raffa,Darrel,Ahlam  ©
+  </div>
+</div>
+</body>
+</html>
